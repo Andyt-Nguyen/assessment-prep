@@ -5,7 +5,7 @@
 	var myFave = "My favorite color is";
 //3. Use the variables from 1 and 2 to make myFavoriteColor equal
 //   "My favorite color is dark blue" (concatenate)
-var myFavoriteColor = myFave + color;
+var myFavoriteColor = myFave + " " + color;
 
 //4. Create an array of strings that includes the letters a - d in order.
 var aThroughD = ['a','b','c','d'];
